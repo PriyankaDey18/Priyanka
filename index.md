@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## Priyanka Dey
+
+I am a research scholar at Systems and Control Engineering, Indian Institute of Technology, Bombay.
+
+### Education
+-I am pursuing Ph.D. with Prof. Debasish chatterjee and Prof. Niranjan Balachandran in Systems and Control Engineering, IIT Bombay
+-M.Tech. in Control System Engineering with Prof. N. M. Singh at VJTI Univeristy, Mumbai, 2015.
+-B.E. in Electronics and Communication Engineering, RTM Nagpur University, 2013.
+
+### Contact
+Email id: dey_priyanka@sc.iitb.ac.in
+
+### Publications
+
+### Awards and Honors
+-IIT Travel Grant: for SICE, Nara, Japan, 2018
+-Student Travel Grant Award for attending SICE 2018
 
 You can use the [editor on GitHub](https://github.com/PriyankaDey18/PriyankaDey.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
