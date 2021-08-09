@@ -14,6 +14,7 @@ Email id: dey_priyanka@sc.iitb.ac.in
 
 ### Awards and Honors
 -IIT Travel Grant: for SICE, Nara, Japan, 2018
+
 -Student Travel Grant Award for attending SICE 2018
 
 You can use the [editor on GitHub](https://github.com/PriyankaDey18/PriyankaDey.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
