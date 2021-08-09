@@ -3,11 +3,9 @@
 I am a research scholar at Systems and Control Engineering, Indian Institute of Technology, Bombay.
 
 ### Education
-I am pursuing Ph.D. with [Prof. Debasish chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) and [Prof. Niranjan Balachandran](http://www.math.iitb.ac.in/~niranj/) in [Systems and Control Engineering](https://www.sc.iitb.ac.in/), IIT Bombay since July 2015
-
-M.Tech. in Control System Engineering with [Prof. N. M. Singh](https://scholar.google.co.in/citations?user=MVFKy-4AAAAJ&hl=en) at [VJTI](http://www.vjti.ac.in/), Univeristy of Mumbai, 2013-2015.
-
-B.E. in Electronics and Communication Engineering, [RTM Nagpur University](https://www.nagpuruniversity.org/rtmnu/home/), 2009-2013.
+- I am pursuing Ph.D. with [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) and [Prof. Niranjan Balachandran](http://www.math.iitb.ac.in/~niranj/) in [Systems and Control Engineering](https://www.sc.iitb.ac.in/), IIT Bombay since July 2015
+- M.Tech. in Control System Engineering with [Prof. N. M. Singh](https://scholar.google.co.in/citations?user=MVFKy-4AAAAJ&hl=en) at [VJTI](http://www.vjti.ac.in/), Univeristy of Mumbai, 2013-2015.
+- B.E. in Electronics and Communication Engineering, [RTM Nagpur University](https://www.nagpuruniversity.org/rtmnu/home/), 2009-2013.
 
 ### Contact
 Email id: dey_priyanka@sc.iitb.ac.in, dey.priyanka018@gmail.com
@@ -21,19 +19,41 @@ observability", Automatica, vol 131, September 2021  [[doi]](https://doi.org/10.
 5. P. Dey, N. Balachandran, and D. Chatterjee, ``On minimum cost sparsest input-connectivity for controllability of linear systems", In the Proceedings of 57th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE), Nara, Japan, pp. 409-404, Oct. 2018 [[doi]](https://ieeexplore.ieee.org/document/8492603) 
 
 ### Awards and Honors
-IIT Travel Grant: for SICE, Nara, Japan, 2018
-
-Student Travel Grant Award of 60,000 Yen to attend for attending SICE 2018
+- IIT Travel Grant: for SICE, Nara, Japan, 2018
+- Student Travel Grant Award of 60,000 Yen to attend for attending SICE 2018
 
 ### Course Work
+**Control theory:** Modelling and Identification of Dynamical Systems, Control of Nonlinear Dynamical Systems, Systems Theory, Optimization Based Control of Stochastic Systems, Science of Information: Statistics and Learning, Physics and Control. 
 
+**Probability:** Introduction to Probability and Random Processes, Advanced Probability and Random Processes for Engineers, Stochastic Processes, Random Graphs : Theory and Applications  
+
+**Optimization:** Optimization, Combinatorial Optimization I
+
+**Mathematics:** Real Analysis, Measure Theory, Functional Analysis, Graph Theory, Combinatorics
+
+**Online Courses:** Machine Learning, Game Theory, Probability Theory: Foundation for Data Science, AI for everyone 
 
 ### Workshops Attended
-1. Two-day workshop on Arduino Bot at KITS Nagpur, Aug 2011 
-2. Matrix Computation for Complex System, conducted by Centre of Excellence in Complex and Non-Linear Dynamical Systems (CoE-CNDS), VJTI, Dec 2013\\
-3. Non-linear State Estimation, conducted by CoE-CNDS, VJTI, Jan 2014\\
-4. Perspectives in Dynamical Systems and Control, organized by CoE-CNDS, VJTI and IIT Bombay, Mar 2014\\
-5. 25 Years of Passivity based Control: New Vistas, organized by CoE-CNDS, VJTI, May 2014.
+- Two-day workshop on _Arduino Bot_ at KITS Nagpur, Aug 2011 
+- _Matrix Computation for Complex System_, conducted by Centre of Excellence in Complex and Non-Linear Dynamical Systems (CoE-CNDS), VJTI, Dec 2013\\
+- _Non-linear State Estimation_, conducted by CoE-CNDS, VJTI, Jan 2014\\
+- _Perspectives in Dynamical Systems and Control_, organized by CoE-CNDS, VJTI and IIT Bombay, Mar 2014\\
+- _25 Years of Passivity based Control: New Vistas_, organized by CoE-CNDS, VJTI, May 2014.
+
+### Professional Activities
+**Reviewer:** IEEE Transactions on Automatic Control, IEEE Transactions on Smart Grid, American Control Conference 2018, European Control Conference 2018, Conference on Decision and Control 2020.
+
+**Teaching Assistant:**
+- Introduction to Probability and Random Processes  (July'16-Dec'19)
+
+- Signals and Feedback Systems Minor (Jan'17-May'17)
+
+- Optimization   (Jan'18-May'19)
+
+## Software Skills
+**Languages:**  C, MATLAB, Simulink, Mathematica, Octave, R
+
+**Typography:** Microsoft Word, Latex
 
 
 You can use the [editor on GitHub](https://github.com/PriyankaDey18/PriyankaDey.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
