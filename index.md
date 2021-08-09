@@ -4,7 +4,9 @@ I am a research scholar at Systems and Control Engineering, Indian Institute of 
 
 ### Education
 -I am pursuing Ph.D. with Prof. Debasish chatterjee and Prof. Niranjan Balachandran in Systems and Control Engineering, IIT Bombay
+
 -M.Tech. in Control System Engineering with Prof. N. M. Singh at VJTI Univeristy, Mumbai, 2015.
+
 -B.E. in Electronics and Communication Engineering, RTM Nagpur University, 2013.
 
 ### Contact
