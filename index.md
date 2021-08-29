@@ -3,7 +3,7 @@
 I am a research scholar at Systems and Control Engineering, Indian Institute of Technology, Bombay.
 
 ### Education
-- I am pursuing Ph.D. with [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) and [Prof. Niranjan Balachandran](http://www.math.iitb.ac.in/~niranj/) in [Systems and Control Engineering](https://www.sc.iitb.ac.in/), IIT Bombay since July 2015
+- I am pursuing Ph.D. with [Prof. Debasish Chatterjee](https://www.sc.iitb.ac.in/~chatterjee/master/homepage/index.html) and [Prof. Niranjan Balachandran](http://www.math.iitb.ac.in/~niranj/) in [Systems and Control Engineering](https://www.sc.iitb.ac.in/), IIT Bombay since July 2015.
 - M.Tech. in Control System Engineering with [Prof. N. M. Singh](https://scholar.google.co.in/citations?user=MVFKy-4AAAAJ&hl=en) at [VJTI](http://www.vjti.ac.in/), Univeristy of Mumbai, 2013-2015.
 - B.E. in Electronics and Communication Engineering, [RTM Nagpur University](https://www.nagpuruniversity.org/rtmnu/home/), 2009-2013.
 
@@ -20,7 +20,7 @@ observability", Automatica, vol 131, September 2021  [[doi]](https://doi.org/10.
 
 ### Awards and Honors
 - IIT Travel Grant: for SICE, Nara, Japan, 2018
-- Student Travel Grant Award of 60,000 Yen to attend for attending SICE 2018
+- Student Travel Grant Award of 60,000 Yen for attending SICE 2018
 
 ### Course Work
 **Control theory:** Modelling and Identification of Dynamical Systems, Control of Nonlinear Dynamical Systems, Systems Theory, Optimization Based Control of Stochastic Systems, Science of Information: Statistics and Learning, Physics and Control. 
@@ -39,55 +39,21 @@ observability", Automatica, vol 131, September 2021  [[doi]](https://doi.org/10.
 - _Non-linear State Estimation_, conducted by CoE-CNDS, VJTI, Jan 2014\\
 - _Perspectives in Dynamical Systems and Control_, organized by CoE-CNDS, VJTI and IIT Bombay, Mar 2014\\
 - _25 Years of Passivity based Control: New Vistas_, organized by CoE-CNDS, VJTI, May 2014.
+- _First step into Machine Learning and Deep Learning using Python and MATLAB_, conducted
+by IRSCP, IIT Bombay and Mathworks, March 2021
 
 ### Professional Activities
 **Reviewer:** IEEE Transactions on Automatic Control, IEEE Transactions on Smart Grid, American Control Conference 2018, European Control Conference 2018, Conference on Decision and Control 2020.
 
 **Teaching Assistant:**
-- Introduction to Probability and Random Processes  (July'16-Dec'19)
+- Introduction to Probability and Random Processes  (July'16 - Dec'19)
 
-- Signals and Feedback Systems Minor (Jan'17-May'17)
+- Signals and Feedback Systems Minor (Jan'17 - May'17)
 
-- Optimization   (Jan'18-May'19)
+- Optimization   (Jan'18 - May'19)
 
 ## Software Skills
 **Languages:**  C, MATLAB, Simulink, Mathematica, Octave, R
 
 **Typography:** Microsoft Word, Latex
 
-
-You can use the [editor on GitHub](https://github.com/PriyankaDey18/PriyankaDey.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PriyankaDey18/PriyankaDey.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
